@@ -27,3 +27,13 @@ POWER BI</br>
 3. Basic calculations and analysis using DAX.</br>
 4. Data modelling by creating and managing relationships among tables in model view.</br>
 5. Visualization using different CHARTS or GRAPHS in report view.</br>
+
+## DASHBOARD PRIVIEW
+
+![pro1](https://github.com/jhanvikamani/Power-BI-Project-Data-Professional-Survey/assets/49193372/13c96aa1-90f6-4f11-ba44-908169155557)
+
+#### SURVEY DASHBOARD
+![pro2](https://github.com/jhanvikamani/Power-BI-Project-Data-Professional-Survey/assets/49193372/06ac5831-ed57-4a4e-86e7-da2752b76f51)
+
+
+
