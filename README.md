@@ -19,3 +19,11 @@ POWER BI</br>
 9. Display the total count of different choices using CLUSTERD COLUMN chart.</br>
 10. Created STACKED BAR chart to display total count of favorite programming languages and average salary according to the job roles.</br>
 11. Used TREEMAP to show the country-wise ethnicity.</br>
+
+## METHODOLOGY
+
+1. Imported data in Power Bi using GET DATA.</br>
+2. Cleaned and filtered data using POWER QUERY in data view.</br>
+3. Basic calculations and analysis using DAX.</br>
+4. Data modelling by creating and managing relationships among tables in model view.</br>
+5. Visualization using different CHARTS or GRAPHS in report view.</br>
